@@ -22,4 +22,6 @@ ctx.fillStyle = 'rgb(200, 50 , 10)';
 ctx.fillRect(75,125,150,100);
 ctx.strokeStyle = "green";
 ctx.strokeRect(50,100,200,150);
+ctx.strokeStyle = "blue";
+ctx.strokeRect(25,75,250,200);
 ctx.clearRect(100,150,100,50);
